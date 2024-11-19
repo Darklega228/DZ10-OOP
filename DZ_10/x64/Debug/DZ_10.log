@@ -1,0 +1,13 @@
+﻿  DZ_10.cpp
+C:\Users\ZBook\Desktop\DZ_10\DZ_10.cpp(17,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ZBook\Desktop\DZ_10\DZ_10.cpp(89,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ZBook\Desktop\DZ_10\DZ_10.cpp(97,32): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\ZBook\Desktop\DZ_10\DZ_10.cpp(113,32): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\ZBook\Desktop\DZ_10\DZ_10.cpp(118,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ZBook\Desktop\DZ_10\DZ_10.cpp(126,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ZBook\Desktop\DZ_10\DZ_10.cpp(160,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ZBook\Desktop\DZ_10\DZ_10.cpp(170,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ZBook\Desktop\DZ_10\DZ_10.cpp(218,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ZBook\Desktop\DZ_10\DZ_10.cpp(226,32): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\ZBook\Desktop\DZ_10\DZ_10.cpp(236,27): warning C4018: <: несоответствие типов со знаком и без знака
+  DZ_10.vcxproj -> C:\Users\ZBook\Desktop\DZ_10\x64\Debug\DZ_10.exe
